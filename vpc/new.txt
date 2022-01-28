@@ -1,0 +1,25 @@
+   42  export access_key = "AKIAXAFGJRR7CLZPNHEH"
+   43  export access_key="AKIAXAFGJRR7CLZPNHEH"
+   45  export region="ap-south-1"
+   49  export AWS_SECRET_ACCESS_KEY_ID="AKIAXAFGJRR7CLZPNHEH"
+   50  export AWS_SECRET_ACCESS_KEY="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"
+   51  export AWS_DEFAULT_REGION="ap-south-1"
+   73  export AWS_SECRET_ACCESS_KEY="Fhl9FueXV3lplANQQzAcxxFWCqfO4GRMBL/CSJ5w"
+   74  export AWS_DEFAULT_REGION="ap-south-1"
+   89  export AWS_SECRET_ACCESS_KEY_ID="AKIAXAFGJRR7CLZPNHEH"
+   90  export AWS_ACCESS_KEY_ID="AKIAXAFGJRR7CLZPNHEH"
+   91  export AWS_SECRET_ACCESS_KEY="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"
+   92  export AWS_DEFAULT_REGION="ap-south-1"
+  132  history | grep export
+  133  export AWS_ACCESS_KEY_ID="AKIAXAFGJRR7CLZPNHEH"
+  134  export AWS_SECRET_ACCESS_KEY="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"
+  139  export AWS_ACCESS_KEY_ID="AKIAXAFGJRR7CLZPNHEH"
+  140  export AWS_SECRET_ACCESS_KEY="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"
+  144  history | grep export
+  145  export AWS_DEFAULT_REGION="ap-south-1"
+  171  history | grep export
+  172  export AWS_ACCESS_KEY_ID="AKIAXAFGJRR7CLZPNHEH"
+  186  echo history | grep export >> new.txt
+  189  echo history | grep export
+  190  history | grep export
+  191  history | grep export >> new.txt 
